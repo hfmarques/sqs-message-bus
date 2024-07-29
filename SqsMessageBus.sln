@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqsMessageBus", "SqsMessage
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqsMessageBus.Tests", "SqsMessageBus.Tests\SqsMessageBus.Tests.csproj", "{A23649B9-B15C-4E92-8809-41619D51AF6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{2E6902EA-46FC-457F-8ED9-21458272AEDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{A23649B9-B15C-4E92-8809-41619D51AF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A23649B9-B15C-4E92-8809-41619D51AF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A23649B9-B15C-4E92-8809-41619D51AF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6902EA-46FC-457F-8ED9-21458272AEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6902EA-46FC-457F-8ED9-21458272AEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6902EA-46FC-457F-8ED9-21458272AEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6902EA-46FC-457F-8ED9-21458272AEDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
